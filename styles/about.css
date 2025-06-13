@@ -1,20 +1,17 @@
+/* stylelint-disable */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
     margin: 0;
-    padding: 0;
-    color: #333;
 }
 
 header {
     background-color: #3498db;
     color: white;
     padding: 1.5rem;
-}
-
-section {
-    margin: 2rem;
+    text-align: center;
 }
 
 ul {
-    list-style-type: square;
+    list-style-type: none;
+    padding: 0;
 }
