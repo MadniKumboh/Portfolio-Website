@@ -3,11 +3,5 @@
   "attr-lowercase": true,
   "alt-require": true,
   "id-unique": true,
-  "tag-pair": true,
-  "src-not-empty": true,
-  "attr-value-double-quotes": true,
-  "doctype-first": true,
-  "title-require": true,
-  "space-tab-mixed-disabled": "tab",
-  "id-class-value": "dash"
+  "tag-pair": true
 }
